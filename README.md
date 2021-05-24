@@ -1,17 +1,13 @@
 <div align="center">
 
-# Editor.io
+# Nadim chihaoui
 
 
 </div>
 
-## Online code editor for HTML, CSS and Javascript to discover frontend code
 
-<div align="center">
-  <img alt="Demo" src="./src/Assets/web.gif"/>
-</div>
 
-### Features:
+### Features of Online code editor for HTML, CSS and Javascript:
 
 - No installation, work online and build web pages.
 - Auto Save of all your work
@@ -19,15 +15,10 @@
 - Autoclose of tags and brackets
 - Live Preview
 
-## Online Markdown editor for generating Readme Files
 
-<div align="center">
-  <img alt="Demo" src="./src/Assets/markdown.gif"/>
-</div>
 
-## Features
+## Features of Online Markdown editor for generating Readme Files
 
-- GFM
 - Supports Html Tags
 - Custom toolbar to make editing easier
 - Live Preview
